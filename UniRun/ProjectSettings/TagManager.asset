@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Dead
+  - Spark
+  - Coin
   layers:
   - Default
   - TransparentFX

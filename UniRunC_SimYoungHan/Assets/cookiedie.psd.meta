@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: da9455356bf77e44dbb9e217be5778a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 764564163619026560
+    second: cookiedie_0
+  - first:
+      213: 3117331391455489959
+    second: cookiedie_1
+  - first:
+      213: -1703050336832740357
+    second: cookiedie_2
+  - first:
+      213: -5225272291901958928
+    second: cookiedie_3
+  - first:
+      213: -5935861684336451624
+    second: cookiedie_4
+  - first:
+      213: -5469048715001710519
+    second: cookiedie_5
+  - first:
+      213: 5523279938107365115
+    second: cookiedie_6
+  - first:
+      213: 7815762096031683273
+    second: cookiedie_7
+  - first:
+      213: 5617236164498906674
+    second: cookiedie_8
+  - first:
+      213: -5925796014081480600
+    second: cookiedie_9
+  - first:
+      213: -1543990704233228318
+    second: cookiedie_10
+  - first:
+      213: -8607108188765628574
+    second: cookiedie_11
+  - first:
+      213: 4448081360610912597
+    second: cookiedie_12
+  - first:
+      213: 6390918262536321832
+    second: cookiedie_13
+  - first:
+      213: -568471528014402192
+    second: cookiedie_14
+  - first:
+      213: 762563812942219306
+    second: cookiedie_15
+  - first:
+      213: -8318564012106673702
+    second: cookiedie_16
+  - first:
+      213: -2511705189200996759
+    second: cookiedie_17
+  - first:
+      213: 5017857400458576874
+    second: cookiedie_18
+  - first:
+      213: -834976130210329178
+    second: cookiedie_19
+  - first:
+      213: 1817515657615940673
+    second: cookiedie_20
+  - first:
+      213: 260841425378586355
+    second: cookiedie_21
+  - first:
+      213: 3612876110987869619
+    second: cookiedie_22
+  - first:
+      213: 3948573630991038166
+    second: cookiedie_23
+  - first:
+      213: 8514551508026450239
+    second: cookiedie_24
+  - first:
+      213: 8702544258097317126
+    second: cookiedie_25
+  - first:
+      213: 4645303957047708807
+    second: cookiedie_26
+  - first:
+      213: -3343644174532856482
+    second: cookiedie_27
+  - first:
+      213: -5177751984078812680
+    second: cookiedie_28
+  - first:
+      213: -6760961809123191445
+    second: cookiedie_29
+  - first:
+      213: -6225567650121915759
+    second: cookiedie_30
+  - first:
+      213: -3994636983848919677
+    second: cookiedie_31
+  - first:
+      213: -8231218645964095048
+    second: cookiedie_32
+  - first:
+      213: 7579070753695179971
+    second: cookiedie_33
+  - first:
+      213: -692011925552190757
+    second: cookiedie_34
+  - first:
+      213: -3638675582724653828
+    second: cookiedie_35
+  - first:
+      213: 4044146271794896816
+    second: cookiedie_36
+  - first:
+      213: 2291789816352455332
+    second: cookiedie_37
+  - first:
+      213: -6502439527551139143
+    second: cookiedie_38
+  - first:
+      213: -548779718961462493
+    second: cookiedie_39
+  - first:
+      213: -3687938376705139742
+    second: cookiedie_40
+  - first:
+      213: -2862898681161587193
+    second: cookiedie_41
+  - first:
+      213: -5382365085267038748
+    second: cookiedie_42
+  - first:
+      213: -5480512048032574900
+    second: cookiedie_43
+  - first:
+      213: 1933987922489010290
+    second: cookiedie_44
+  - first:
+      213: -3163616821945152299
+    second: cookiedie_45
+  - first:
+      213: -2499144956777692161
+    second: cookiedie_46
+  - first:
+      213: 6540802308512605933
+    second: cookiedie_47
+  - first:
+      213: -5771260575238283290
+    second: cookiedie_48
+  - first:
+      213: 36011119738235569
+    second: cookiedie_49
+  - first:
+      213: 8400739559001057827
+    second: cookiedie_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cookiedie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08671845e074c9a00800000000000000
+      internalID: 764564163619026560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookiedie_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe0ea526cf24b20800000000000000
+      internalID: 3117331391455489959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookiedie_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a976edbc8d58e0800000000000000
+      internalID: -1703050336832740357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookiedie_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f41e72098a1c77b0800000000000000
+      internalID: -5225272291901958928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookiedie_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 252
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df16456f359f9da0800000000000000
+      internalID: -5935861684336451624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 // 게임오버 상태를 표현하고, 게임 점수와 UI를 관리하는 매니저
 // 씬에는 단 하나의 게임 매니저만 존재할 수 있음
@@ -15,6 +16,11 @@ public class GameManager : MonoBehaviour
     public GameObject gameoverUI; // 게임오버시 활성화할 UI 오브젝트
 
     private int score = 0; // 게임 점수
+
+    public GameObject menuPanel; // 메뉴 패널 변수
+
+    public int hpCount = 2; // 실제 사용자 생명력
+    public Text hpText; // 사용자에게 보여질 생명력UI
 
     // 게임 시작과 동시에 싱글턴을 구성
     private void Awake()
@@ -37,6 +43,12 @@ public class GameManager : MonoBehaviour
             Debug.Log("씬에 두 개 이상의 게임 매니저가 존재합니다!");
             Destroy(gameObject);
         }
+    }
+
+    private void Start()
+    {
+        // 사용자에게 보여질 생명력을 실제 생명력으로 등록
+        hpText.text = hpCount.ToString();
     }
 
     // 게임오버 상태에서 게임을 재시작할 수 있게 하는 처리
@@ -68,5 +80,42 @@ public class GameManager : MonoBehaviour
         isGameover = true;
         // 게임오버 UI를 활성화
         gameoverUI.SetActive(true);
+    }
+
+    public void UIContol(string type)
+    {
+        switch (type)
+        {
+            case "menuon":
+                menuPanel.SetActive(true);
+                Time.timeScale = 0f;
+                break;
+            case "menuoff":
+                menuPanel.SetActive(false);
+                Time.timeScale = 1f;
+                break;
+            case "restart":
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                Time.timeScale = 1f;
+                break;
+            case "exit":
+                Application.Quit();
+                break;
+        }
+    }
+
+    public bool Crash()
+    {
+        //hpCount--;
+        //hpText.text = hpCount.ToString();
+        hpText.text = "" + --hpCount;
+        if (hpCount <= 0) return true;
+        return false;
+    }
+
+    public int Plus(int a, int b)
+    {
+        int c = a + b;
+        return c;
     }
 }

@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: c5ed6f58d4fb4d2458d4a86562d18ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4517887078419791855
+    second: cookierun_0
+  - first:
+      213: -4862297217190061004
+    second: cookierun_1
+  - first:
+      213: -131175657501280015
+    second: cookierun_2
+  - first:
+      213: -3501539639581513517
+    second: cookierun_3
+  - first:
+      213: 8996521556328859413
+    second: cookierun_4
+  - first:
+      213: -5413946216719439042
+    second: cookierun_5
+  - first:
+      213: 1262262992572851732
+    second: cookierun_6
+  - first:
+      213: -3255905944658339276
+    second: cookierun_7
+  - first:
+      213: -4810087960188183531
+    second: cookierun_8
+  - first:
+      213: 5319253845462956039
+    second: cookierun_9
+  - first:
+      213: 9003052258174112866
+    second: cookierun_10
+  - first:
+      213: 545745483484928778
+    second: cookierun_1
+  - first:
+      213: -4651827563831969063
+    second: cookierun_2
+  - first:
+      213: 1876016900400897344
+    second: cookierun_3
+  - first:
+      213: 5544935544309069669
+    second: cookierun_4
+  - first:
+      213: -2906279973061610265
+    second: cookierun_5
+  - first:
+      213: -7239055680309138791
+    second: cookierun_6
+  - first:
+      213: -1696531492427691313
+    second: cookierun_7
+  - first:
+      213: -3349232421805053766
+    second: cookierun_8
+  - first:
+      213: 7948434823482112456
+    second: cookierun_19
+  - first:
+      213: -5494064996818734734
+    second: cookierun_20
+  - first:
+      213: -9000160685279737116
+    second: cookierun_21
+  - first:
+      213: 2770860302730332066
+    second: cookierun_22
+  - first:
+      213: -4822089369318027348
+    second: cookierun_23
+  - first:
+      213: 8828034999271452536
+    second: cookierun_24
+  - first:
+      213: -2344121349848964585
+    second: cookierun_25
+  - first:
+      213: 2623825133212225388
+    second: cookierun_26
+  - first:
+      213: 3656390173072239448
+    second: cookierun_27
+  - first:
+      213: -6652794962901513858
+    second: cookierun_28
+  - first:
+      213: -4860409335001038070
+    second: cookierun_29
+  - first:
+      213: 5199925093597380673
+    second: cookierun_30
+  - first:
+      213: 4930250580428973935
+    second: cookierun_31
+  - first:
+      213: 5769398540925052708
+    second: cookierun_32
+  - first:
+      213: -7687612568954152126
+    second: cookierun_33
+  - first:
+      213: -5015877320303671081
+    second: cookierun_34
+  - first:
+      213: 6621575052987801787
+    second: cookierun_35
+  - first:
+      213: -3938996472240123177
+    second: cookierun_36
+  - first:
+      213: 1907116908858939937
+    second: cookierun_37
+  - first:
+      213: 8841347478514033266
+    second: cookierun_38
+  - first:
+      213: 1395952586112798515
+    second: cookierun_39
+  - first:
+      213: 71271960035857680
+    second: cookierun_40
+  - first:
+      213: 7174864725814804266
+    second: cookierun_41
+  - first:
+      213: 4036808168336020021
+    second: cookierun_42
+  - first:
+      213: -6400883748306418565
+    second: cookierun_43
+  - first:
+      213: 5222063652158920674
+    second: cookierun_44
+  - first:
+      213: -392006674022719101
+    second: cookierun_45
+  - first:
+      213: 7671696351969381791
+    second: cookierun_46
+  - first:
+      213: 6513763458890353381
+    second: cookierun_47
+  - first:
+      213: -1037727414242558014
+    second: cookierun_48
+  - first:
+      213: 4611006438692439977
+    second: cookierun_49
+  - first:
+      213: -1330771276321665870
+    second: cookierun_50
+  - first:
+      213: 7488414596755312578
+    second: cookierun_51
+  - first:
+      213: -9187911217297212269
+    second: cookierun_52
+  - first:
+      213: 2224776776919024095
+    second: cookierun_53
+  - first:
+      213: -8554595304716370393
+    second: cookierun_54
+  - first:
+      213: -8341218954269389450
+    second: cookierun_55
+  - first:
+      213: 3784611646877594088
+    second: cookierun_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cookierun_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b94e030a0e29700800000000000000
+      internalID: 545745483484928778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dabc652a73617fb0800000000000000
+      internalID: -4651827563831969063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d560d6e63f80a10800000000000000
+      internalID: 1876016900400897344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bafccf7193fc40800000000000000
+      internalID: 5544935544309069669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b4db33c1daa7d0800000000000000
+      internalID: -2906279973061610265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_6
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a66e18635b98b90800000000000000
+      internalID: -7239055680309138791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_7
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1092
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8593a895b478e0800000000000000
+      internalID: -1696531492427691313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookierun_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1090
+        width: 272
+        height: 272
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a61c7bd22581d0800000000000000
+      internalID: -3349232421805053766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
